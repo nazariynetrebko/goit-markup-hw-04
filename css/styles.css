@@ -531,6 +531,12 @@ ul {
   width: 40px;
   height: 40px;
   border-radius: 50%;
+  fill: #f4f4fd;
+}
+
+.icon-link .footer-icon {
+  background-color: #4d5ae5;
+  fill: #4d5ae5;
 }
 
 .icon-link {
@@ -542,6 +548,13 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.icon-link:hover,
+.icon-link:focus {
+  background-color: #31d0aa;
+  fill: #31d0aa;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .footer-icon:hover,

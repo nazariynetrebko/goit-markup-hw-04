@@ -167,14 +167,14 @@ ul {
   background-color: #2e2f42;
   padding-top: 160px;
   padding-bottom: 160px;
-  margin: 0 auto;
+  margin: auto;
   max-width: 1440px;
   background-image: linear-gradient(
       to bottom,
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/background/people-office.jpg);
+    url(/images/background/hero-image.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

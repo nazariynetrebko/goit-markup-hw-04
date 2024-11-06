@@ -417,6 +417,8 @@ ul {
   text-transform: capitalize;
   color: #2e2f42;
   letter-spacing: 0.02em;
+  margin-top: 0;
+  margin-bottom: 72px;
 }
 
 .portfolio-list {
